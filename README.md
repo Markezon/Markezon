@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI5bWprOTk2Nmw2azlmaGh1N3N3cmk5OHVwbGlrbDdyYXJ2cnBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI5bWprOTk2Nmw2azlmaGh1N3N3cmk5OHVwbGlrbDdyYXJ2cnBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
@@ -21,6 +21,19 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Serbia.
+
+- :telescope: My motto - developer as a lifestyle.
+- :muscle: Discipline, responsibility, analytical skills, focus on results allow me to perform work at a high level.
+- :zap:I make sure to consistently meet deadlines and to effectively communicate with my clients to avoid misunderstandings.
+- :seedling: I constantly learn and explore new tools to stay on top of technology trends.
 
 ###
 
