@@ -36,6 +36,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :seedling: I constantly learn and explore new tools to stay on top of technology trends.
 
 ###
+<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -73,12 +74,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
+### :fire: My Stats :
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Markezon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Markezon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Markezon&theme=dark)](https://git.io/streak-stats)
 
 ###
 
