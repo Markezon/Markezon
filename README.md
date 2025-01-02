@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI5bWprOTk2Nmw2azlmaGh1N3N3cmk5OHVwbGlrbDdyYXJ2cnBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
+
+###
+
+<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
