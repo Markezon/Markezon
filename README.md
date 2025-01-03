@@ -8,9 +8,8 @@
 
 ###
 
- <a href="https://www.khudorenko.com/" target="_blank">
-    MY WEBSITE
-  </a>
+<h2 align="center"><a href="https://www.khudorenko.com/" target="_blank">MY WEBSITE</a></h2>
+  
 ###
 
 <div align="center">
