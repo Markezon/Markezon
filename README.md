@@ -78,8 +78,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Markezon&theme=dark)](https://git.io/streak-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markezon&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Markezon&theme=solarized_dark)
