@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Dmitri</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=418&lines=Hi+%F0%9F%91%8B!+My+name+is+Dmitri" alt="Typing SVG" /></a></h2>
 
 ###
 
@@ -27,6 +27,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+###
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Serbia.
 
