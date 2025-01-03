@@ -8,6 +8,8 @@
 
 ###
 
+<h2 align="center"><a href="https://www.khudorenko.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=418&lines=Hi+%F0%9F%91%8B!+Click+to+go+to+MY+WEBSITE" alt="Typing SVG" /></a></h2>
+
 <h2 align="center"><a href="https://www.khudorenko.com/" target="_blank">Click to go to MY WEBSITE</a></h2>
   
 ###
