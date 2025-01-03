@@ -8,10 +8,8 @@
 
 ###
 
-<h2 align="center"><a href="https://www.khudorenko.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=418&lines=Hi+%F0%9F%91%8B!+Click+to+go+to+MY+WEBSITE" alt="Typing SVG" /></a></h2>
-
-<h2 align="center"><a href="https://www.khudorenko.com/" target="_blank">Click to go to MY WEBSITE</a></h2>
-  
+<h2 align="center"><a href="https://www.khudorenko.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&center=true&width=418&lines=Click+to+go+to+MY+WEBSITE" alt="Typing SVG" /></a></h2>
+ 
 ###
 
 <div align="center">
@@ -93,5 +91,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Markezon/Markezon/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center"><a href="https://www.khudorenko.com/" target="_blank">Click to go to MY WEBSITE</a></h2>
 
 ###
