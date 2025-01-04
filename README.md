@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center"><a target="_blank" href="https://www.khudorenko.com/" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=418&lines=Click+to+visit+MY+WEBSITE" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://www.khudorenko.com/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=418&lines=Click+to+visit+MY+WEBSITE" alt="Typing SVG" /></a></h2>
  
 ###
 
@@ -97,4 +97,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2 align="center"><a href="https://www.khudorenko.com/" target="_blank">Click to visit MY WEBSITE</a></h2>
 
 ###
-<a href="https://www.khudorenko.com/" target="_blank">Click to visit MY WEBSITE</a>
+
