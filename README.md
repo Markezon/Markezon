@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center"><a href="https://www.khudorenko.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&center=true&width=418&lines=Click+to+go+to+MY+WEBSITE" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://www.khudorenko.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=418&lines=Click+to+go+to+MY+WEBSITE" alt="Typing SVG" /></a></h2>
  
 ###
 
